@@ -1,0 +1,8 @@
+Singly Linked List
+    - data structure that contains a sequence of nodes 
+    - each node contains: 
+        - a value 
+        - a reference to next node in the linked list 
+    - first node = head
+    - last node = tail 
+    
