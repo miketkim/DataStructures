@@ -5,4 +5,22 @@ Singly Linked List
         - a reference to next node in the linked list 
     - first node = head
     - last node = tail 
-    
+
+Linked List Methods
+    1. Insert
+        - At front of linked list 
+        - After a given node 
+        - At end of linked list  
+    2. Delete 
+    3. Search
+    4. Access 
+
+Doubley Linked List
+    - each node has link to predecessor 
+
+
+Big O Notation for a Linked List
+    - Insert = O(1)
+    - Delete = O(1)
+    - Search = O(n)
+    - Acccess = O(n)
