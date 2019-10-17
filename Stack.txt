@@ -1,0 +1,8 @@
+Stack - linear data structure that stores items in LIFO 
+
+
+List Implentation 
+    - biggest issue = speed problems as the stack grows in size 
+
+Implentation Using Collections.Deque 
+    -
