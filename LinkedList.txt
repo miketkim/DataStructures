@@ -6,14 +6,6 @@ Singly Linked List
     - first node = head
     - last node = tail 
 
-Linked List Methods
-    1. Insert
-        - At front of linked list 
-        - After a given node 
-        - At end of linked list  
-    2. Delete 
-    3. Search
-    4. Access 
 
 Doubley Linked List
     - each node has link to predecessor 
